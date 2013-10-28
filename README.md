@@ -1,4 +1,0 @@
-Tree
-====
-
-Binary Search Tree
